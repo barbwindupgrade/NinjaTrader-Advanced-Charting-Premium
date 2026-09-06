@@ -1,0 +1,23 @@
+{
+  "repo": "ninjatrader-advanced-charting-premium",
+  "product": "NinjaTrader Advanced Charting Premium",
+  "kind": "finance",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "finance",
+  "topics": [
+    "ninjatrader",
+    "futures-dom",
+    "strategy-analyzer",
+    "market-replay",
+    "atm-strategies",
+    "ninjatrader-setup-failed-fix",
+    "how-to-install-ninjatrader",
+    "ninjatrader-windows",
+    "ninjatrader-desktop-2026",
+    "ninjatrader-desktop-package"
+  ],
+  "site": "toolix.me"
+}
